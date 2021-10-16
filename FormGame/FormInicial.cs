@@ -22,7 +22,7 @@ namespace FormGame
         private void simpleButton1_Click(object sender, EventArgs e)
         {
             FormPedraPapelTesoura pedraPapelTesoura = new FormPedraPapelTesoura();
-            pedraPapelTesoura.Show();
+            pedraPapelTesoura.ShowDialog();
         }
     }
 }
