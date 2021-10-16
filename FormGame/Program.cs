@@ -18,7 +18,7 @@ namespace FormGame
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormPedraPapelTesoura());
+            Application.Run(new FormInicial());
         }
     }
 }
