@@ -235,7 +235,7 @@ namespace FormGame
             this.ClientSize = new System.Drawing.Size(836, 502);
             this.Controls.Add(this.panelControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
-            this.IconOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("FormPedraPapelTesoura.IconOptions.SvgImage")));
+            this.IconOptions.Image = ((System.Drawing.Image)(resources.GetObject("FormPedraPapelTesoura.IconOptions.Image")));
             this.Name = "FormPedraPapelTesoura";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Pedra Papel Tesoura";
